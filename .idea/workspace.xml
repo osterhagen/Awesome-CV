@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c69fc2cc-5881-4977-9542-b7a49d6f3869" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesome-cv.cls" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-cv.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/awesome-cv.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/coverletter-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/coverletter-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/coverletter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/coverletter.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/certificates.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/committees.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/education.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/experience.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/extracurricular.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/honors.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/presentation.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/skills.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/writing.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/certificates.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/committees.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/education.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/experience.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/extracurricular.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/honors.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/presentation.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/summary.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/writing.tex" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2gRP9N7yuutpo3LVxRjWeq8AN2i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/omarraza/Desktop/Resume/Awesome-CV",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c69fc2cc-5881-4977-9542-b7a49d6f3869" name="Changes" comment="" />
+      <created>1715657264551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715657264551</updated>
+      <workItem from="1715657265587" duration="10858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

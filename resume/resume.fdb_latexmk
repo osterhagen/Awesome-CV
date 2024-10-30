@@ -1,0 +1,14 @@
+# Fdb version 4
+["pdflatex"] 1730270038.9374 "/Users/omarraza/Desktop/Resume/Awesome-CV/resume/resume.tex" "resume.pdf" "resume" 1730270039.09412 2
+  "/Users/omarraza/Desktop/Resume/Awesome-CV/resume/resume.tex" 1730267454.07034 3030 c515e76254723f279f2e4d3d1acf21ff ""
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1715659895 8221423 104674f36bd9de9552844c2b8827c64f ""
+  "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "awesome-cv.cls" 0 -1 0 ""
+  "resume.aux" 0 -1 0 "pdflatex"
+  "resume.tex" 1730267454.07034 3030 c515e76254723f279f2e4d3d1acf21ff ""
+  (generated)
+  "resume.aux"
+  "resume.log"
+  "resume.pdf"
+  (rewritten before read)
